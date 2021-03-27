@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/robofriends2/static/css/main.7a240d42.chunk.css",
-    "main.js": "/robofriends2/static/js/main.77166f2a.chunk.js",
-    "main.js.map": "/robofriends2/static/js/main.77166f2a.chunk.js.map",
-    "runtime-main.js": "/robofriends2/static/js/runtime-main.b6232948.js",
-    "runtime-main.js.map": "/robofriends2/static/js/runtime-main.b6232948.js.map",
-    "static/css/2.fe359a49.chunk.css": "/robofriends2/static/css/2.fe359a49.chunk.css",
-    "static/js/2.56885a89.chunk.js": "/robofriends2/static/js/2.56885a89.chunk.js",
-    "static/js/2.56885a89.chunk.js.map": "/robofriends2/static/js/2.56885a89.chunk.js.map",
-    "static/js/3.a0783b41.chunk.js": "/robofriends2/static/js/3.a0783b41.chunk.js",
-    "static/js/3.a0783b41.chunk.js.map": "/robofriends2/static/js/3.a0783b41.chunk.js.map",
-    "index.html": "/robofriends2/index.html",
-    "static/css/2.fe359a49.chunk.css.map": "/robofriends2/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.7a240d42.chunk.css.map": "/robofriends2/static/css/main.7a240d42.chunk.css.map",
-    "static/js/2.56885a89.chunk.js.LICENSE.txt": "/robofriends2/static/js/2.56885a89.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/robofriends2/static/media/logo.6ce24c58.svg"
+    "main.css": "/robo-image-generator/static/css/main.0e56da01.chunk.css",
+    "main.js": "/robo-image-generator/static/js/main.e3658dfe.chunk.js",
+    "main.js.map": "/robo-image-generator/static/js/main.e3658dfe.chunk.js.map",
+    "runtime-main.js": "/robo-image-generator/static/js/runtime-main.4f980746.js",
+    "runtime-main.js.map": "/robo-image-generator/static/js/runtime-main.4f980746.js.map",
+    "static/css/2.fe359a49.chunk.css": "/robo-image-generator/static/css/2.fe359a49.chunk.css",
+    "static/js/2.aa994350.chunk.js": "/robo-image-generator/static/js/2.aa994350.chunk.js",
+    "static/js/2.aa994350.chunk.js.map": "/robo-image-generator/static/js/2.aa994350.chunk.js.map",
+    "static/js/3.4bc7ca97.chunk.js": "/robo-image-generator/static/js/3.4bc7ca97.chunk.js",
+    "static/js/3.4bc7ca97.chunk.js.map": "/robo-image-generator/static/js/3.4bc7ca97.chunk.js.map",
+    "index.html": "/robo-image-generator/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/robo-image-generator/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.0e56da01.chunk.css.map": "/robo-image-generator/static/css/main.0e56da01.chunk.css.map",
+    "static/js/2.aa994350.chunk.js.LICENSE.txt": "/robo-image-generator/static/js/2.aa994350.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6232948.js",
+    "static/js/runtime-main.4f980746.js",
     "static/css/2.fe359a49.chunk.css",
-    "static/js/2.56885a89.chunk.js",
-    "static/css/main.7a240d42.chunk.css",
-    "static/js/main.77166f2a.chunk.js"
+    "static/js/2.aa994350.chunk.js",
+    "static/css/main.0e56da01.chunk.css",
+    "static/js/main.e3658dfe.chunk.js"
   ]
 }
