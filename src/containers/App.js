@@ -69,7 +69,7 @@ class App extends Component {
 
     <div className="tc"
     >
-      <h1 id="heading1" className="f1 lh-title washed-green">RoboFriends!</h1>
+      <h1 id="heading1" className="f1 lh-title washed-green">RoboFriends</h1>
       <SearchBox searchChange={this.onSearchChange} />
       <Scroll>
         <ErrorBoundary>
